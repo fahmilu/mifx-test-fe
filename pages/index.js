@@ -1,4 +1,4 @@
-import Item from '../components/Products/item';
+import Item from '../components/Products/Item';
 import useSWR from 'swr';
 
 export default function Home() {
